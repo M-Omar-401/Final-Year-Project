@@ -41,7 +41,7 @@ Here are some screenshots of the application:
 
 | Screenshot 1 | Screenshot 2 |
 |---------------|---------------|
-| ![Screenshot 1](D\) | ![Screenshot 2](path/to/screenshot2.png) |
+| ![Screenshot 1](screenshots/admin.png) | ![Screenshot 2](path/to/screenshot2.png) |
 | Description of Screenshot 1 | Description of Screenshot 2 |
 
 | Screenshot 3 | Screenshot 4 |
