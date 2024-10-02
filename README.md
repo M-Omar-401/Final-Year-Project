@@ -53,5 +53,5 @@ Here are some screenshots of the application:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Paperless-Graduate-Management-System.git
-   cd Paperless-Graduate-Management-System
+   git clone https://github.com/m-omar-401/Final-Year-Project.git
+   cd Final-Year-Project
